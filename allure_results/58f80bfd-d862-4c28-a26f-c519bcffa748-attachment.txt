@@ -1,0 +1,1 @@
+Пользователь успешно удалён: {'name': 'szmkinqrpc', 'email': 'mpeinwekaz@example.com', 'password': 'xqknnvbgat'}
